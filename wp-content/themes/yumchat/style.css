@@ -1,0 +1,14 @@
+/*
+Theme Name: My Theme
+Description: An HTML5 version.
+Version: 1.0
+Tags: html5, naked, clean, basic
+*/
+
+.sidenav-header {
+	height: auto;
+}
+
+.navbar-vertical .navbar-brand > img, .navbar-vertical .navbar-brand-img {
+	max-height: 4rem;
+}
